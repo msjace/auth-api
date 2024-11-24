@@ -1,4 +1,4 @@
- JWT Authentication API Server
+# JWT Authentication API Server
 
 A token-based authentication system.  
 Designed and developed using DDD (Domain-Driven Design).
